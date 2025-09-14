@@ -1,0 +1,86 @@
+{
+  "id": "1",
+  "name": "Software License Agreement",
+  "parties": ["TechCorp Inc.", "DataSoft LLC"],
+  "expiryDate": "2024-12-15",
+  "startDate": "2023-12-15",
+  "status": "Active",
+  "riskScore": "Low",
+  "value": "$125,000",
+  "type": "Software License",
+  "clauses": [
+    {
+      "id": "c1",
+      "title": "License Grant",
+      "summary": "Grants non-exclusive license to use software for internal business purposes",
+      "confidenceScore": 95,
+      "type": "Standard"
+    },
+    {
+      "id": "c2",
+      "title": "Payment Terms",
+      "summary": "Annual payment due within 30 days of invoice date",
+      "confidenceScore": 98,
+      "type": "Standard"
+    },
+    {
+      "id": "c3",
+      "title": "Termination Clause",
+      "summary": "Either party may terminate with 90 days written notice",
+      "confidenceScore": 92,
+      "type": "Custom"
+    },
+    {
+      "id": "c4",
+      "title": "Data Security",
+      "summary": "Vendor must maintain SOC 2 Type II compliance",
+      "confidenceScore": 88,
+      "type": "Risk"
+    }
+  ],
+  "insights": [
+    {
+      "id": "i1",
+      "type": "Risk",
+      "severity": "Medium",
+      "title": "Auto-renewal clause present",
+      "description": "Contract will automatically renew unless notice is given 90 days prior to expiration"
+    },
+    {
+      "id": "i2",
+      "type": "Recommendation",
+      "severity": "Low",
+      "title": "Review usage metrics",
+      "description": "Consider negotiating volume discounts based on actual usage patterns"
+    },
+    {
+      "id": "i3",
+      "type": "Opportunity",
+      "severity": "Low",
+      "title": "Multi-year discount available",
+      "description": "Vendor offers 15% discount for 3-year commitment"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "e1",
+      "source": "Contract Document",
+      "snippet": "This Agreement shall commence on December 15, 2023 and continue for a period of one (1) year...",
+      "relevanceScore": 95,
+      "page": 1
+    },
+    {
+      "id": "e2",
+      "source": "Amendment #1",
+      "snippet": "The parties agree to modify Section 4.2 regarding payment terms...",
+      "relevanceScore": 87,
+      "page": 2
+    },
+    {
+      "id": "e3",
+      "source": "Email Correspondence",
+      "snippet": "As discussed, the auto-renewal clause will take effect unless written notice...",
+      "relevanceScore": 78
+    }
+  ]
+}

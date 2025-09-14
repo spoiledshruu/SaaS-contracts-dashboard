@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "Software License Agreement",
+    "parties": ["TechCorp Inc.", "DataSoft LLC"],
+    "expiryDate": "2024-12-15",
+    "startDate": "2023-12-15",
+    "status": "Active",
+    "riskScore": "Low",
+    "value": "$125,000",
+    "type": "Software License"
+  },
+  {
+    "id": "2",
+    "name": "Service Level Agreement",
+    "parties": ["CloudServices", "Enterprise Co."],
+    "expiryDate": "2024-03-20",
+    "startDate": "2023-03-20",
+    "status": "Renewal Due",
+    "riskScore": "Medium",
+    "value": "$85,000",
+    "type": "Service Agreement"
+  },
+  {
+    "id": "3",
+    "name": "Non-Disclosure Agreement",
+    "parties": ["StartupX", "InvestorY"],
+    "expiryDate": "2023-11-30",
+    "startDate": "2022-11-30",
+    "status": "Expired",
+    "riskScore": "High",
+    "value": "$0",
+    "type": "NDA"
+  },
+  {
+    "id": "4",
+    "name": "Partnership Agreement",
+    "parties": ["CompanyA", "CompanyB", "CompanyC"],
+    "expiryDate": "2025-06-10",
+    "startDate": "2024-06-10",
+    "status": "Active",
+    "riskScore": "Low",
+    "value": "$500,000",
+    "type": "Partnership"
+  },
+  {
+    "id": "5",
+    "name": "Vendor Contract",
+    "parties": ["SupplierCorp", "ManufacturingInc"],
+    "expiryDate": "2024-09-15",
+    "startDate": "2023-09-15",
+    "status": "Active",
+    "riskScore": "Medium",
+    "value": "$250,000",
+    "type": "Vendor Agreement"
+  },
+  {
+    "id": "6",
+    "name": "Employment Contract",
+    "parties": ["TechCompany", "John Doe"],
+    "expiryDate": "2024-01-31",
+    "startDate": "2023-01-31",
+    "status": "Renewal Due",
+    "riskScore": "Low",
+    "value": "$120,000",
+    "type": "Employment"
+  },
+  {
+    "id": "7",
+    "name": "Lease Agreement",
+    "parties": ["PropertyCorp", "RetailStore"],
+    "expiryDate": "2023-08-15",
+    "startDate": "2020-08-15",
+    "status": "Expired",
+    "riskScore": "High",
+    "value": "$360,000",
+    "type": "Lease"
+  },
+  {
+    "id": "8",
+    "name": "Consulting Agreement",
+    "parties": ["ConsultingFirm", "ClientCorp"],
+    "expiryDate": "2024-11-20",
+    "startDate": "2024-05-20",
+    "status": "Active",
+    "riskScore": "Low",
+    "value": "$75,000",
+    "type": "Consulting"
+  },
+  {
+    "id": "9",
+    "name": "Distribution Agreement",
+    "parties": ["Manufacturer", "Distributor"],
+    "expiryDate": "2024-04-30",
+    "startDate": "2023-04-30",
+    "status": "Renewal Due",
+    "riskScore": "Medium",
+    "value": "$180,000",
+    "type": "Distribution"
+  },
+  {
+    "id": "10",
+    "name": "Maintenance Contract",
+    "parties": ["ServiceProvider", "FacilityCorp"],
+    "expiryDate": "2025-02-28",
+    "startDate": "2024-02-28",
+    "status": "Active",
+    "riskScore": "Low",
+    "value": "$95,000",
+    "type": "Maintenance"
+  },
+  {
+    "id": "11",
+    "name": "Marketing Agreement",
+    "parties": ["AgencyCorp", "BrandCompany"],
+    "expiryDate": "2024-07-15",
+    "startDate": "2024-01-15",
+    "status": "Active",
+    "riskScore": "Medium",
+    "value": "$200,000",
+    "type": "Marketing"
+  },
+  {
+    "id": "12",
+    "name": "Supply Agreement",
+    "parties": ["SupplierInc", "ManufacturerCorp"],
+    "expiryDate": "2023-12-31",
+    "startDate": "2021-12-31",
+    "status": "Expired",
+    "riskScore": "High",
+    "value": "$450,000",
+    "type": "Supply"
+  },
+  {
+    "id": "13",
+    "name": "Data Processing Agreement",
+    "parties": ["DataProcessor", "ClientCompany"],
+    "expiryDate": "2025-03-15",
+    "startDate": "2024-03-15",
+    "status": "Active",
+    "riskScore": "Medium",
+    "value": "$65,000",
+    "type": "Data Processing"
+  },
+  {
+    "id": "14",
+    "name": "Licensing Agreement",
+    "parties": ["IP Owner", "Licensee Corp"],
+    "expiryDate": "2024-08-30",
+    "startDate": "2022-08-30",
+    "status": "Active",
+    "riskScore": "Low",
+    "value": "$300,000",
+    "type": "Licensing"
+  },
+  {
+    "id": "15",
+    "name": "Joint Venture Agreement",
+    "parties": ["TechStartup", "InvestmentFirm", "StrategicPartner"],
+    "expiryDate": "2026-01-10",
+    "startDate": "2024-01-10",
+    "status": "Active",
+    "riskScore": "High",
+    "value": "$1,200,000",
+    "type": "Joint Venture"
+  }
+]
