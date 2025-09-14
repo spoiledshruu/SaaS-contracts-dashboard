@@ -4,7 +4,7 @@ A modern, responsive React application for managing and analyzing contract portf
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.vercel.app)
+[View Live Demo](https://saa-s-contracts-dashboard-one.vercel.app/)
 
 ## 📋 Features
 
@@ -92,14 +92,4 @@ For demo purposes, you can:
 - User-friendly error messages
 - Loading states for all async operations
 
-## 🚀 Deployment
-
-The application is optimized for deployment on Vercel:
-
-1. Connect your GitHub repository to Vercel
-2. Deploy with default settings
-3. The app will be available at your Vercel URL
-
-## 📄 License
-
-This project is created for demonstration purposes.
+-----------
